@@ -1,0 +1,34 @@
+{
+    "application": {
+        "id": "",
+        "title": "com.sap.build.standard.inventoryDashboard.te2018lotteryapp",
+        "type": "SAP_UI5_Component",
+        "componentUrl": "/webapp",
+        "appUrl": "#te2018lotteryapp-Display",
+        "navigationComponentName": "com.sap.build.standard.inventoryDashboard",
+        "intentSemanticObject": "te2018lotteryapp",
+        "intentAction": "Display",
+        "html5ApplicationName": "te2018lotteryapp",
+        "HCPParentApplicationName": ""
+    },
+    "assignment": {
+        "groups": [
+            "5df8b5ce-4525-4e86-9e7c-c8c4df2f37dd"
+        ],
+        "contentPackages": [
+            "54ebe6ff-d129-4048-af43-3d890b72c620"
+        ],
+        "categories": []
+    },
+    "tile": {
+        "type": "StaticTile",
+        "title": "Pre-TechEd 2018 -3",
+        "subtitle": "Lottery app for TechEd 2018 ",
+        "searchKeywords": "Pre-TechEd 2018 -3,Lottery app for TechEd 2018 ",
+        "displayIconUrl": "sap-icon://e-learning",
+        "displayInfoText": "",
+        "size": "1x1",
+        "serviceURL": "",
+        "refreshInterval": ""
+    }
+}
